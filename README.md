@@ -1,6 +1,6 @@
-# Splunk Forwarder Setup Guide
+##Splunk Forwarder Setup Guide
 
-## Overview
+##Overview
 Here’s a step-by-step guide to set up a Splunk Universal Forwarder (UF) on Ubuntu
 
 ### Step 1 
